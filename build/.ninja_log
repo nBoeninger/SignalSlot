@@ -1,0 +1,20 @@
+# ninja log v5
+1	138	1708776196298007381	CMakeFiles/SignalSlots.dir/src/signals.cpp.o	8acc6d9ab930509a
+2	3819	1708776322943377610	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	5383a8674bbb62ec
+1	11	1708776206778116658	libSignalSlots.a	5368739b474a6be9
+2	701	1708776344815624292	test/CMakeFiles/SigSlotsTests.dir/SigSlotUnitTest.cpp.o	53287fa3cd900ed1
+2	739	1708776319875343227	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	94f0e00acf5082
+1	999	1708776320135346140	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	37bb6045c4e474f5
+1	1950	1708776321083356758	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	f1210b6811286235
+3820	3928	1708776323063378956	lib/libgtest.a	aefb724294c46f5
+3929	3943	1708776323079379136	lib/libgtest_main.a	f13443dde7e458db
+3	696	1708776591406564194	test/CMakeFiles/SignalSlotTests.dir/SignalSlotTest.cpp.o	53374edaf0c3bfa
+3928	3978	1708776323111379494	lib/libgmock.a	75bfdc3854f90b4a
+3978	3990	1708776323127379674	lib/libgmock_main.a	e23c55bde57fcd87
+702	858	1708776344971626060	test/SigSlotsTests	d9ce828ef2912fb3
+2	687	1708776610738804899	test/CMakeFiles/SignalSlotTests.dir/SignalSlotTest.cpp.o	1c24f179faaf44c6
+687	844	1708776610894806845	test/SignalSlotTests	b349936b892eb8a9
+2	708	1708776635303112504	test/CMakeFiles/SignalSlotTests.dir/SignalSlotTest.cpp.o	1c24f179faaf44c6
+708	864	1708776635459114463	test/SignalSlotTests	b349936b892eb8a9
+2	715	1708776736408397572	test/CMakeFiles/SignalSlotTests.dir/SignalSlotTest.cpp.o	1c24f179faaf44c6
+715	874	1708776736564399576	test/SignalSlotTests	b349936b892eb8a9
